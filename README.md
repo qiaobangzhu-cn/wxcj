@@ -52,41 +52,27 @@ https://blog.csdn.net/u013236891/article/details/120990346
 <a href="https://w91h2gmtrn.feishu.cn/docx/NjMpdivcZoCihIxrhxgcbwUrnYg" target="_blank">重点参考：《每天稳定新增150+好友，用技术让私域流量实现主动引流》</a>
 
 **内容目录：**
->1、私域主动添加，一个被大家容易忽视的引流方式
-
->2、常见主动添加的5个业务场景
->&nbsp;&nbsp;&nbsp;&nbsp;2.1、同城门店老板主动引流    
->&nbsp;&nbsp;&nbsp;&nbsp;2.2、抖音主播/创业粉主动引流
->&nbsp;&nbsp;&nbsp;&nbsp;2.3、知识星球社群内引流（不推荐）
->&nbsp;&nbsp;&nbsp;&nbsp;2.4、投资机构主动引流
->&nbsp;&nbsp;&nbsp;&nbsp;2.5、各种微信群主动引流
->&nbsp;&nbsp;&nbsp;&nbsp;2.6、总结
-
->3、微信号采集（爬虫）技术的选型
-
->4、怎么把微信号给过滤筛选出来？
-
->&nbsp;&nbsp;&nbsp;&nbsp;4.1、微信号筛选匹配原理
-
->&nbsp;&nbsp;&nbsp;&nbsp;4.2、脏数据匹配清洗
-
->&nbsp;&nbsp;&nbsp;&nbsp;4.3、八爪鱼数据格式化配置
-
->&nbsp;&nbsp;&nbsp;&nbsp;4.4、导出Excel结果
-
->&nbsp;&nbsp;&nbsp;&nbsp;4.5、用Python对结果进一步清洗
-
->5、微信号批量添加的技术选型
-
->&nbsp;&nbsp;&nbsp;&nbsp;5.1、技术的选择和调研
-
->&nbsp;&nbsp;&nbsp;&nbsp;5.2、自动添加的MVP测试
-
->&nbsp;&nbsp;&nbsp;&nbsp;5.3、压测及稳定性相关问题
-
->&nbsp;&nbsp;&nbsp;&nbsp;5.4、关于微信养号
-
->&nbsp;&nbsp;&nbsp;&nbsp;5.5、总结
+>1、私域主动添加，一个被大家容易忽视的引流方式  
+>2、常见主动添加的5个业务场景  
+>&nbsp;&nbsp;&nbsp;&nbsp;2.1、同城门店老板主动引流     
+>&nbsp;&nbsp;&nbsp;&nbsp;2.2、抖音主播/创业粉主动引流  
+>&nbsp;&nbsp;&nbsp;&nbsp;2.3、知识星球社群内引流（不推荐）  
+>&nbsp;&nbsp;&nbsp;&nbsp;2.4、投资机构主动引流  
+>&nbsp;&nbsp;&nbsp;&nbsp;2.5、各种微信群主动引流  
+>&nbsp;&nbsp;&nbsp;&nbsp;2.6、总结  
+>3、微信号采集（爬虫）技术的选型  
+>4、怎么把微信号给过滤筛选出来？  
+>&nbsp;&nbsp;&nbsp;&nbsp;4.1、微信号筛选匹配原理  
+>&nbsp;&nbsp;&nbsp;&nbsp;4.2、脏数据匹配清洗  
+>&nbsp;&nbsp;&nbsp;&nbsp;4.3、八爪鱼数据格式化配置  
+>&nbsp;&nbsp;&nbsp;&nbsp;4.4、导出Excel结果  
+>&nbsp;&nbsp;&nbsp;&nbsp;4.5、用Python对结果进一步清洗  
+>5、微信号批量添加的技术选型  
+>&nbsp;&nbsp;&nbsp;&nbsp;5.1、技术的选择和调研  
+>&nbsp;&nbsp;&nbsp;&nbsp;5.2、自动添加的MVP测试  
+>&nbsp;&nbsp;&nbsp;&nbsp;5.3、压测及稳定性相关问题  
+>&nbsp;&nbsp;&nbsp;&nbsp;5.4、关于微信养号  
+>&nbsp;&nbsp;&nbsp;&nbsp;5.5、总结  
 
 #	5、更多交流
 
