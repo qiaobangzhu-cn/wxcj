@@ -78,4 +78,6 @@ https://blog.csdn.net/u013236891/article/details/120990346
 
 微信扫码点击关注“点金乔帮主”，领取大礼包福利：《点金工具箱|全网最全的搞钱工具箱》和《程序员财富自由赚钱指南》
 
-<img src="重点必看.png" align="center" width="50%">
+<img src="重点必看.png" align="center" width="50%">  
+
+<img src="https://dianjinbang.oss-cn-hangzhou.aliyuncs.com/qiaobangzhu/%E9%87%8D%E7%82%B9%E5%BF%85%E7%9C%8B.png" align="center" width="100%">
