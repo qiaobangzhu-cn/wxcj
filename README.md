@@ -80,4 +80,4 @@ https://blog.csdn.net/u013236891/article/details/120990346
 
 <img src="重点必看.png" align="center" width="50%">  
 
-<img src="https://dianjinbang.oss-cn-hangzhou.aliyuncs.com/qiaobangzhu/%E9%87%8D%E7%82%B9%E5%BF%85%E7%9C%8B.png" align="center" width="100%">
+<img src="https://dianjinbang.oss-cn-hangzhou.aliyuncs.com/qiaobangzhu/%E9%87%8D%E7%82%B9%E5%BF%85%E7%9C%8B.png" align="center">
