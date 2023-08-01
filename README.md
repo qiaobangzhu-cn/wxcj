@@ -72,10 +72,16 @@ https://blog.csdn.net/u013236891/article/details/120990346
 >&nbsp;&nbsp;&nbsp;&nbsp;5.2、自动添加的MVP测试  
 >&nbsp;&nbsp;&nbsp;&nbsp;5.3、压测及稳定性相关问题  
 >&nbsp;&nbsp;&nbsp;&nbsp;5.4、关于微信养号  
->&nbsp;&nbsp;&nbsp;&nbsp;5.5、总结  
+>&nbsp;&nbsp;&nbsp;&nbsp;5.5、总结
+>6、圈友问题&解答汇总
+>&nbsp;&nbsp;&nbsp;&nbsp;6.1、关于抓取老板微信实践补充  
+>&nbsp;&nbsp;&nbsp;&nbsp;6.2、关于手机号没有注册微信的问题  
+>&nbsp;&nbsp;&nbsp;&nbsp;6.3、关于微信风控问题  
+>&nbsp;&nbsp;&nbsp;&nbsp;6.4、关于引流后的操作问题  
+>&nbsp;&nbsp;&nbsp;&nbsp;6.5、关于产品的问题  
 
 #	5、更多交流
 
-微信扫码点击关注“点金乔帮主”，领取大礼包福利：《点金工具箱|全网最全的搞钱工具箱》和《程序员财富自由赚钱指南》
+微信扫码点击关注“点金乔帮主”，领取大礼包福利：《点金工具箱|全网最全的搞钱工具箱》和《技术赚钱实践指南：实现财务自由》
 
 <img src="重点必看.png" align="center" width="50%">  
